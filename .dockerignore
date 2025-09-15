@@ -1,0 +1,10 @@
+# Evita mandar basura al contexto de build
+node_modules
+dist
+.git
+.gitignore
+Dockerfile
+docker-compose.yaml
+.env
+npm-debug.log*
+yarn-error.log*
